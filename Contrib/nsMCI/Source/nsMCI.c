@@ -24,7 +24,7 @@
 #include <windows.h>
 #include <mmsystem.h>
 
-#include "../../ExDLL/exdll.h"
+#include "../exdll.h"
 
 #pragma comment(lib, "winmm.lib")
 
